@@ -50,8 +50,11 @@ To successfully run this program you have to follow some terminal commands after
     - `node index.js`
     - after this command program will run you can give output in the form of (num1 - num2).
 
+![Program Execution](https://github.com/lalitmee/Roman-Numeral-Calculator/blob/master/program.png?raw=true "Execution of Program in nodejs")
+
 3. For unit testing.
     - `npm run test`
     - after this command, test cases successfully execution will be displayed.
 
+![Unit testing](https://github.com/lalitmee/Roman-Numeral-Calculator/blob/master/unit_testing.png?raw=true "Unit testing")
 
