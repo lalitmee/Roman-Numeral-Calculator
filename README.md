@@ -4,7 +4,7 @@
 
 ## Introduction ##
 
-This repository is for a program of Roman Numeral Calculator with unit testing of all mathematical operations like addition, subtraction, multiplication and division. Unit testing is done by using [mocha](https://mochajs.org/) and [chai](http://chaijs.com/). 
+This repository is for a program of _Roman Numeral Calculator_ with unit testing of all _mathematical operations_ like addition, subtraction, multiplication and division. _Unit testing_ is done by using [mocha](https://mochajs.org/) and [chai](http://chaijs.com/). 
 
 
 ## Problem ##
@@ -17,5 +17,7 @@ The problem was to do mathematical operation with roman numerals (I, V, X, L....
     C / X  = X
 
     X * X  = C
+
+The program should take 3 arguments like the above and give the result( two operands and the operator and perform the operation and print the output ). There should be a unit test for the program (using any unit testing framework).
 
 
