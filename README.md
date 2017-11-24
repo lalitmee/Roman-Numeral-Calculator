@@ -41,5 +41,17 @@ To run this program we are required to have __nodejs__, __mocha__ and __chai__. 
     - `sudo npm install mocha chai --save-dev`
 
 ## Execution ##
-To successfully run this program you have to follow some terminal commands which are following:
+To successfully run this program you have to follow some terminal commands after installing the above softwares on your system which are following:
+1. Clone the repository and go to the folder Roman-Numeral-Calculator.
+    `git clone https://github.com/lalitmee/Roman-Numeral-Calculator.git`
+    `cd Roman-Numeral-Calculator`
+
+2. For program execution.
+    `node index.js`
+    after this command program will run you can give output in the form of (num1 - num2).
+
+3. For unit testing.
+    `npm run test`
+    after this command, test cases successfully execution will be displayed.
+
 
