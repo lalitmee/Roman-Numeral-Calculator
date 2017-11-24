@@ -11,7 +11,7 @@ var num2;
 (function() {
 
     // 
-    console.log("Enter the num1 operand num2 if form of (num1 + num2)");
+    console.log("Enter the num1 operand num2 in form of (num1 + num2)");
     stdin.addListener("data", function(d) {
 
         num = d.toString().split(' ');
@@ -54,7 +54,7 @@ var num2;
             console.log("Multiplication of numerals = " + d.toString());
         }
         console.log("\n");
-        console.log("Enter the num1 operand num2 if form of (num1 + num2)");
+        console.log("Enter the num1 operand num2 in form of (num1 + num2)");
     });
 })();
 
